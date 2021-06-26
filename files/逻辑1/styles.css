@@ -22,7 +22,7 @@
 #u3622 {
   position:absolute;
   left:47px;
-  top:80px;
+  top:208px;
   width:4000px;
   height:3131px;
 }
@@ -33,4 +33,28 @@
   width:3996px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u3624_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:358px;
+  height:38px;
+}
+#u3624 {
+  position:absolute;
+  left:131px;
+  top:93px;
+  width:357px;
+  height:37px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u3625 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:357px;
+  white-space:nowrap;
 }
