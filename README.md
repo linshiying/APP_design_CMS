@@ -195,3 +195,10 @@
 ##### 5.1.3 竞品优劣势
 ![Owhat竞品优劣势](https://gitee.com/huang_jun_hao/dada/raw/master/owaht%20ylesa5.jpg)  
   
+#### 5.2 闲鱼
+##### 5.2.1 架构图
+![闲鱼架构图](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E9%97%B2%E9%B1%BC%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+##### 5.2.2 产品简介
+![闲鱼产品简介](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E9%97%B2%E9%B1%BC%E4%BA%A7%E5%93%81%E7%AE%80%E4%BB%8B.png)
+##### 5.2.3 竞品优劣势
+![闲鱼竞品优劣势](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E9%97%B2%E9%B1%BC%E7%AB%9E%E5%93%81%E4%BC%98%E5%8A%A3%E5%8A%BF.png)
