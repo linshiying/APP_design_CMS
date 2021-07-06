@@ -38,3 +38,5 @@
 #### 2.5产品核心功能
 出售周边、追星交流社区、掌握最新最及时的明星咨询。  
   
+#### 2.6 产品架构图
+![产品架构图](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
