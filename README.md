@@ -185,3 +185,13 @@
 **用户画像**
 ![用户画像-贝利](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%20-%E8%B4%9D%E5%88%A9.png)
 
+## 五、竞品分析  
+
+#### 5.1 O!what
+##### 5.1.1 架构图
+![Owhat架构图](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/Owhat%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+##### 5.1.2 产品简介
+![Owhat产品简介](https://gitee.com/huang_jun_hao/dada/raw/master/owaht%20jiaje9.jpg)
+##### 5.1.3 竞品优劣势
+![Owhat竞品优劣势](https://gitee.com/huang_jun_hao/dada/raw/master/owaht%20ylesa5.jpg)  
+  
