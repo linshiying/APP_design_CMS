@@ -181,3 +181,7 @@
 - 没有visa、paypal等海外支付方式的粉丝群体     
 - 觉得自己动手海淘麻烦的粉丝群体
   
+##### 4.1.5用户场景
+**用户画像**
+![用户画像-贝利](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%20-%E8%B4%9D%E5%88%A9.png)
+
