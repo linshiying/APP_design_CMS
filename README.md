@@ -7,3 +7,14 @@
 #### 1.2 目的
 “Lorry”主要面向粉丝群体，以满足粉丝对于偶像周边的购买需求存在，提供给用户一个集合了欧美以及亚洲地区的流行文化以及偶像明星的各类周边产品的商场进行购买。  
   
+## 二、产品定位
+
+#### 2.1 产品定位
+“Lorry”是一个针对明星偶像等流行文化内容、服务、消费的平台。定位于青少年娱乐流行文化发现社区，深耕粉丝经济与娱乐营销领域，聚焦青少年的潮流文化。依托线上周边产品，提供满足用户的服务，为流行文化消费与传播提供空间。  
+
+![使用场景](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.png)  
+
+![用户目标](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E7%94%A8%E6%88%B7%E7%9B%AE%E6%A0%87.png)  
+
+![用户画像](https://gitee.com/zheng_wan_jun/app_final/raw/master/images/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F.png)  
+  
